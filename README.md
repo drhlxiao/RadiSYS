@@ -13,10 +13,11 @@ RadiSYS is a software suite for 3d radiation shielding optimization and radiatio
   * Geant4
   * Built-in numerical simulation modules, suitable for x-rays, protons and heavy ions
 * Built-in modules for analysis of 
- * Total ionizing dose
- * Dose distribution 
- * Displacement damage
- * Single event rate
+
+  * Total ionizing dose
+  *  Dose distribution 
+  *  Displacement damage
+  *  Single event rate
 
 ```diff
 -  RadiSYS is not free software. If you are interested in it, please contact me by mail (dr.hualinxiao#gmail.com)
