@@ -19,6 +19,6 @@ RadiSYS is a software suite for 3d radiation shielding optimization and radiatio
 ** Displacement damage
 ** Single event rate
 
-<div class="alert-info">
- RadiSYS is not free software. If you are interested in it, please contact me by mail (dr.hualinxiao#gmail.com)
- </div>
+```diff
++  RadiSYS is not free software. If you are interested in it, please contact me by mail (dr.hualinxiao#gmail.com)
+```
