@@ -15,7 +15,7 @@ RadiSYS is a software suite for 3d radiation shielding optimization and radiatio
   * Built-in numerical simulation modules, suitable for x-rays, protons and heavy ions
 * Built-in modules for analysis of 
 
-  * Total ionizing dose
+  *  Total ionizing dose
   *  Dose distribution 
   *  Displacement damage
   *  Single event rate
